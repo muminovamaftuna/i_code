@@ -1,9 +1,0 @@
-ID
-1
-SUMMARY
-Check header tabs
-PRE-CONDITINOS
-Open web-site https://muminovamaftuna.github.io/maftuna_portfolio/
-STEPS
-1)Tap About         EXPECTED RESULT:  section is displayed About
-2)Tap Service       EXPECTED RESULT:  section is displayed Service
